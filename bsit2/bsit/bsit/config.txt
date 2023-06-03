@@ -1,0 +1,5 @@
+C:\Users\volog\Downloads\arch
+C:\Users\volog\Downloads\a.zip
+????.txt
+*.doc*
+*.exe

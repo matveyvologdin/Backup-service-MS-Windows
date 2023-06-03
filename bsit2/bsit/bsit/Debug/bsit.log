@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\volog\source\repos\bsit\bsit\Source.cpp(84,13): warning C4244: инициализация: преобразование "zip_int64_t" в "int", возможна потеря данных
+C:\Users\volog\source\repos\bsit\bsit\Source.cpp(115,8): warning C4101: pch: неиспользованная локальная переменная
+  bsit.vcxproj -> C:\Users\volog\source\repos\bsit\Debug\bsit.exe

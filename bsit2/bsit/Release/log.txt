@@ -1,0 +1,13 @@
+Success install service!
+Success stopped service!
+Success remove service!
+Success install service!
+Success stopped service!
+Success remove service!
+Success install service!
+Success stopped service!
+Success remove service!
+Success install service!
+Success stopped service!
+ControlService failed
+Success remove service!
